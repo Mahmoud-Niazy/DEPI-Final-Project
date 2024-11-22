@@ -1,6 +1,6 @@
 # DEPI-Final-Project
 
-![Screenshot]([https://link-to-your-screenshot.png](https://github.com/Mahmoud-Niazy/DEPI-Final-Project/blob/main/assets/images/mainLogo.png))
+![Image Description]([https://link-to-your-screenshot.png](https://github.com/Mahmoud-Niazy/DEPI-FinalProject/blob/main/assets/images/mainLogo.png))
 
 E-Commerce App
 
