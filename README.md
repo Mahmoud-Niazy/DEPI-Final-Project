@@ -11,7 +11,7 @@ E-Commerce App
 -It supports both Arabic and English for a tailored user experience.
 
 
-App Video : https://drive.google.com/drive/folders/1joX7Lt4CbmBfY-4YwMz3pJ869mK3ankQ?usp=sharing
+App Video & Presentation : https://drive.google.com/drive/folders/1joX7Lt4CbmBfY-4YwMz3pJ869mK3ankQ?usp=sharing
 
 
 
