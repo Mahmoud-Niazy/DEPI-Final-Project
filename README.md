@@ -1,5 +1,7 @@
 # DEPI-Final-Project
 
+![Screenshot]([https://link-to-your-screenshot.png](https://github.com/Mahmoud-Niazy/DEPI-Final-Project/blob/main/assets/images/mainLogo.png))
+
 E-Commerce App
 
 -Our app enables users to create accounts, browse products with a responsive UI, and enjoy smooth animations.
